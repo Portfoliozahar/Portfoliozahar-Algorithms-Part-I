@@ -1,3 +1,5 @@
+package src.trash;
+
 public class UnionFind {
 
     private int[] id;
