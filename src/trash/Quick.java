@@ -5,7 +5,7 @@ public class Quick {
 
         int n = 10;
 
-        // В худшем случае одна компонента содержит n - 1 элементов
+        // В худшем случае одна компонента содержит n - 1 элементовzxc
         int maxChanges = n - 1;
 
         System.out.println("Maximum changes: " + maxChanges);
