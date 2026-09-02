@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Counter" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="src.first.Counter" />
+    <module name="Algorithms, Part I" />
+    <option name="PROGRAM_PARAMETERS" value="5 100" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

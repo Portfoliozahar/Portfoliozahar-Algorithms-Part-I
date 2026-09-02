@@ -1,1 +1,5 @@
-﻿*.class
+﻿.idea/workspace.xml
+.idea/httpRequests/
+*.class
+target/
+out/
