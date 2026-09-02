@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first/AttackSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/AttackSimulator.java" afterDir="false" />
-    </list>
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +141,7 @@
       <recent name="C:\Users\oleg\Desktop\hello" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Unnamed">
+  <component name="RunManager" selected="Application.Knuth">
     <configuration name="Average" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.first.Average" />
       <module name="Algorithms, Part I" />
@@ -168,6 +165,23 @@
       <option name="MAIN_CLASS_NAME" value="src.first.Cat" />
       <module name="Algorithms, Part I" />
       <option name="PROGRAM_PARAMETERS" value="text/file1.txt text/file2.txt text/result.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Counter" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src.first.Counter" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="5 100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Knuth" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src.first.Knuth" />
+      <module name="Algorithms, Part I" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/text/cardsUnicode.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -207,23 +221,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unnamed (1)" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.first.Knuth" />
-      <module name="Algorithms, Part I" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="$PROJECT_DIR$/text/cardsUnicode.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.first.Counter" />
-      <module name="Algorithms, Part I" />
-      <option name="PROGRAM_PARAMETERS" value="5 100" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Sattolo" />
       <item itemvalue="Application.RandomWord" />
@@ -232,8 +229,8 @@
       <item itemvalue="Application.RandomSeq" />
       <item itemvalue="Application.Average" />
       <item itemvalue="Application.Cat" />
-      <item itemvalue="Application.Unnamed (1)" />
-      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Knuth" />
+      <item itemvalue="Application.Counter" />
     </list>
   </component>
   <component name="SharedIndexes">
@@ -260,7 +257,7 @@
       <workItem from="1788279490313" duration="260000" />
       <workItem from="1788286573693" duration="6031000" />
       <workItem from="1788307204593" duration="3494000" />
-      <workItem from="1788310822420" duration="1716000" />
+      <workItem from="1788310822420" duration="2018000" />
     </task>
     <servers />
   </component>
