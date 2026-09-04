@@ -4,7 +4,7 @@
  *  Last modified:     October 16, 1842
  **************************************************************************** */
 
-package src.first;
+package src.A1;
 
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.Out;

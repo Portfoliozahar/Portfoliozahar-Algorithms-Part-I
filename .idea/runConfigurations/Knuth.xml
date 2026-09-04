@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Knuth" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="src.first.Knuth" />
+    <option name="MAIN_CLASS_NAME" value="src.A1.Knuth" />
     <module name="Algorithms, Part I" />
     <option name="REDIRECT_INPUT" value="true" />
     <option name="INPUT_FILE" value="$PROJECT_DIR$/text/cardsUnicode.txt" />

@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Cat" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="src.first.Cat" />
+    <option name="MAIN_CLASS_NAME" value="src.A1.Cat" />
     <module name="Algorithms, Part I" />
     <option name="PROGRAM_PARAMETERS" value="text/file1.txt text/file2.txt text/result.txt" />
     <method v="2">

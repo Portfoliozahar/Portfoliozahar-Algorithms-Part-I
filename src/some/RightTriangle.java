@@ -1,4 +1,4 @@
-package src.trash;
+package src.some;
 
 import edu.princeton.cs.algs4.StdDraw;
 

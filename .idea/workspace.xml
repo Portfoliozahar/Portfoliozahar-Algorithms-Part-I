@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Average.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Average.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Cat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Cat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Counter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Counter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Knuth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Knuth.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/RandomSeq.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/RandomSeq.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/RandomWord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/RandomWord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Sattolo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Sattolo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/AttackSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/AttackSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/Knuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/Knuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/RandomSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/RandomSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/RandomWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/RandomWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trash/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/Quick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trash/RightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/RightTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trash/Sattolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/Sattolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trash/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/UnionFind.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,22 +120,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Accumulator.executor": "Run",
+    "Application.Allowlist.executor": "Run",
     "Application.AttackSimulator.executor": "Run",
     "Application.Average.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.BouncingBall.executor": "Run",
     "Application.Cat.executor": "Run",
     "Application.Counter.executor": "Run",
+    "Application.Date.executor": "Run",
     "Application.HelloGoodbye.executor": "Run",
+    "Application.Interval1D.executor": "Run",
+    "Application.Interval2D.executor": "Run",
     "Application.PercolationStats.executor": "Run",
+    "Application.Point2D.executor": "Run",
     "Application.Quick.executor": "Run",
     "Application.RandomSeq.executor": "Run",
     "Application.RandomWord.executor": "Run",
+    "Application.RectHV.executor": "Run",
     "Application.RightTriangle.executor": "Run",
     "Application.Sattolo.executor": "Run",
+    "Application.StaticSETofInts.executor": "Run",
+    "Application.Transaction.executor": "Run",
     "Application.UnionFind.executor": "Run",
     "Application.Unnamed (1).executor": "Run",
     "Application.Unnamed.executor": "Run",
+    "Application.Vector.executor": "Run",
     "Application.src.per.PercolationStats.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -135,13 +166,31 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oleg\Desktop\hello\text" />
       <recent name="C:\Users\oleg\Desktop\hello" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\oleg\Desktop\hello" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Knuth">
+  <component name="RunManager" selected="Application.Accumulator">
+    <configuration name="Accumulator" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src.A1.Accumulator" />
+      <module name="Algorithms, Part I" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/text/1Kints.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Allowlist" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.A1.Allowlist" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="text/8Kints.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Average" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.first.Average" />
       <module name="Algorithms, Part I" />
@@ -177,6 +226,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Interval2D" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src.A1.Interval2D" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="0.2 0.8 0.3 0.7 1000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Knuth" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="src.first.Knuth" />
       <module name="Algorithms, Part I" />
@@ -191,6 +248,14 @@
       <module name="Algorithms, Part I" />
       <option name="PROGRAM_PARAMETERS" value="20 30" />
       <option name="INPUT_FILE" value="$PROJECT_DIR$/text/names.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point2D" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.A1.Point2D" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="50 50 20" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -231,6 +296,10 @@
       <item itemvalue="Application.Cat" />
       <item itemvalue="Application.Knuth" />
       <item itemvalue="Application.Counter" />
+      <item itemvalue="Application.Allowlist" />
+      <item itemvalue="Application.Point2D" />
+      <item itemvalue="Application.Interval2D" />
+      <item itemvalue="Application.Accumulator" />
     </list>
   </component>
   <component name="SharedIndexes">
@@ -258,6 +327,7 @@
       <workItem from="1788286573693" duration="6031000" />
       <workItem from="1788307204593" duration="3494000" />
       <workItem from="1788310822420" duration="2018000" />
+      <workItem from="1788479011274" duration="1546000" />
     </task>
     <servers />
   </component>
@@ -304,7 +374,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/first/AttackSimulator.java</url>
+          <url>file://$PROJECT_DIR$/src/some/AttackSimulator.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

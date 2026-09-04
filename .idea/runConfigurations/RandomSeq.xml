@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="RandomSeq" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="MAIN_CLASS_NAME" value="src.first.RandomSeq" />
+    <option name="MAIN_CLASS_NAME" value="src.A1.RandomSeq" />
     <module name="Algorithms, Part I" />
     <option name="PROGRAM_PARAMETERS" value="10" />
     <method v="2">

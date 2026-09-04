@@ -1,4 +1,4 @@
-package src.trash;
+package src.some;
 
 public class UnionFind {
 
