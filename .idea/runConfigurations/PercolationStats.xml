@@ -1,9 +1,8 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="PercolationStats" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="MAIN_CLASS_NAME" value="src.per.PercolationStats" />
+    <option name="MAIN_CLASS_NAME" value="src.percolation.PercolationStats" />
     <module name="Algorithms, Part I" />
-    <option name="PROGRAM_PARAMETERS" value="20 30" />
-    <option name="REDIRECT_INPUT" value="true" />
+    <option name="PROGRAM_PARAMETERS" value="200 100" />
     <option name="INPUT_FILE" value="$PROJECT_DIR$/text/names.txt" />
     <method v="2">
       <option name="Make" enabled="true" />

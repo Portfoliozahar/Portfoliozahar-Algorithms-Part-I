@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Average.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Average.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Cat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Cat.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Counter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Counter.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Knuth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Knuth.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/RandomSeq.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/RandomSeq.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/RandomWord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/RandomWord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Sattolo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Sattolo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/PercolationStats.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/PercolationStats.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first/AttackSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/AttackSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first/Knuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/Knuth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first/RandomSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/RandomSeq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/first/RandomWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/RandomWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trash/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/Quick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trash/RightTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/RightTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trash/Sattolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/Sattolo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trash/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/per/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/percolation/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/per/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/percolation/PercolationStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/some/AttackSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/AttackSimulator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,23 +114,28 @@
     "Application.Cat.executor": "Run",
     "Application.Counter.executor": "Run",
     "Application.Date.executor": "Run",
+    "Application.FastCollinearPoints.executor": "Run",
     "Application.HelloGoodbye.executor": "Run",
     "Application.Interval1D.executor": "Run",
     "Application.Interval2D.executor": "Run",
     "Application.PercolationStats.executor": "Run",
+    "Application.Permutation.executor": "Run",
     "Application.Point2D.executor": "Run",
     "Application.Quick.executor": "Run",
     "Application.RandomSeq.executor": "Run",
     "Application.RandomWord.executor": "Run",
+    "Application.RandomizedQueue.executor": "Run",
     "Application.RectHV.executor": "Run",
     "Application.RightTriangle.executor": "Run",
     "Application.Sattolo.executor": "Run",
+    "Application.Stackk.executor": "Run",
     "Application.StaticSETofInts.executor": "Run",
     "Application.Transaction.executor": "Run",
     "Application.UnionFind.executor": "Run",
     "Application.Unnamed (1).executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.Vector.executor": "Run",
+    "Application.asd.executor": "Run",
     "Application.src.per.PercolationStats.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -173,7 +163,7 @@
       <recent name="C:\Users\oleg\Desktop\hello" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Accumulator">
+  <component name="RunManager">
     <configuration name="Accumulator" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="src.A1.Accumulator" />
       <module name="Algorithms, Part I" />
@@ -187,6 +177,19 @@
       <option name="MAIN_CLASS_NAME" value="src.A1.Allowlist" />
       <module name="Algorithms, Part I" />
       <option name="PROGRAM_PARAMETERS" value="text/8Kints.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AttackSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.some.AttackSimulator" />
+      <module name="Algorithms, Part I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.some.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -252,6 +255,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.queues.Permutation" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/text/cards.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Point2D" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.A1.Point2D" />
       <module name="Algorithms, Part I" />
@@ -300,7 +313,14 @@
       <item itemvalue="Application.Point2D" />
       <item itemvalue="Application.Interval2D" />
       <item itemvalue="Application.Accumulator" />
+      <item itemvalue="Application.Permutation" />
+      <item itemvalue="Application.AttackSimulator" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AttackSimulator" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -327,7 +347,8 @@
       <workItem from="1788286573693" duration="6031000" />
       <workItem from="1788307204593" duration="3494000" />
       <workItem from="1788310822420" duration="2018000" />
-      <workItem from="1788479011274" duration="1546000" />
+      <workItem from="1788479011274" duration="2532000" />
+      <workItem from="1788624662165" duration="8685000" />
     </task>
     <servers />
   </component>
@@ -369,16 +390,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/some/AttackSimulator.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

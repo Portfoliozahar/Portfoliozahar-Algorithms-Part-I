@@ -1,4 +1,4 @@
-package src.per;
+package src.percolation;
 
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 

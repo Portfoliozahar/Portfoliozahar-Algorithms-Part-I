@@ -17,9 +17,9 @@ public class AttackSimulator {
         int attacksWithoutCrit = 0;
 
         while (true) {
-            int damage = MIN_DAMAGE;
-            // int damage = ThreadLocalRandom.current()
-            //                               .nextInt(MIN_DAMAGE, MAX_DAMAGE + 1);
+            // int damage = MIN_DAMAGE;
+            int damage = ThreadLocalRandom.current()
+                                          .nextInt(MIN_DAMAGE, MAX_DAMAGE + 1);
 
             attacksWithoutCrit++;
 
