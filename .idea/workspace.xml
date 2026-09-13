@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/PercolationStats.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/PercolationStats.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/percolation/Percolation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/percolation/PercolationStats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/some/AttackSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/some/AttackSimulator.java" afterDir="false" />
-    </list>
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -348,7 +342,7 @@
       <workItem from="1788307204593" duration="3494000" />
       <workItem from="1788310822420" duration="2018000" />
       <workItem from="1788479011274" duration="2532000" />
-      <workItem from="1788624662165" duration="8685000" />
+      <workItem from="1788624662165" duration="8815000" />
     </task>
     <servers />
   </component>

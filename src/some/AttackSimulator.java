@@ -53,7 +53,7 @@ public class AttackSimulator {
                         critChance * 100
                 );
             }
-
+            // qweqwdasdasfasd
             Thread.sleep(210);
         }
     }
